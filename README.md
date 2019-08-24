@@ -1,1 +1,1 @@
-# codingDiagrams
+# codingDiagrams for beginner
